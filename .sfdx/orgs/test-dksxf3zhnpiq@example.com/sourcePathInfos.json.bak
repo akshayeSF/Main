@@ -1,0 +1,296 @@
+[
+    [
+        "C:\\Users\\Vanessa\\Desktop\\main\\force-app",
+        {
+            "sourcePath": "C:\\Users\\Vanessa\\Desktop\\main\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1589817504199,
+            "changeTime": 1589817504199,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\Vanessa\\Desktop\\main\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\Vanessa\\Desktop\\main\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1589817504199,
+            "changeTime": 1589817504199,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Vanessa\\Desktop\\main\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Vanessa\\Desktop\\main\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1589818512375,
+            "changeTime": 1589818512375,
+            "contentHash": "2420936b22f3c881de460db5ee082d43dff6db91"
+        }
+    ],
+    [
+        "C:\\Users\\Vanessa\\Desktop\\main\\force-app\\main\\default\\applications",
+        {
+            "sourcePath": "C:\\Users\\Vanessa\\Desktop\\main\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1589817504199,
+            "changeTime": 1589817504199,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Vanessa\\Desktop\\main\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\Vanessa\\Desktop\\main\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1589817504199,
+            "changeTime": 1589817504199,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Vanessa\\Desktop\\main\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\Vanessa\\Desktop\\main\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1589817775659,
+            "changeTime": 1589817775659,
+            "contentHash": "bf28e431812bd6b20f2430e9b8cf817bfa06f251",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Vanessa\\Desktop\\main\\force-app\\main\\default\\classes\\YO.cls",
+        {
+            "sourcePath": "C:\\Users\\Vanessa\\Desktop\\main\\force-app\\main\\default\\classes\\YO.cls",
+            "isDirectory": false,
+            "size": 58,
+            "modifiedTime": 1589817780202,
+            "changeTime": 1589817780202,
+            "contentHash": "32abe25e6bf6ff9f1e6b9181166a075a794dd061",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Vanessa\\Desktop\\main\\force-app\\main\\default\\classes\\YO.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Vanessa\\Desktop\\main\\force-app\\main\\default\\classes\\YO.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1589817775660,
+            "changeTime": 1589817775660,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Vanessa\\Desktop\\main\\force-app\\main\\default\\contentassets",
+        {
+            "sourcePath": "C:\\Users\\Vanessa\\Desktop\\main\\force-app\\main\\default\\contentassets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1589817504200,
+            "changeTime": 1589817504200,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Vanessa\\Desktop\\main\\force-app\\main\\default\\flexipages",
+        {
+            "sourcePath": "C:\\Users\\Vanessa\\Desktop\\main\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1589817504200,
+            "changeTime": 1589817504200,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Vanessa\\Desktop\\main\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\Users\\Vanessa\\Desktop\\main\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1589817504224,
+            "changeTime": 1589817504224,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Vanessa\\Desktop\\main\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "C:\\Users\\Vanessa\\Desktop\\main\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1589817528221,
+            "changeTime": 1589817528221,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Vanessa\\Desktop\\main\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\Users\\Vanessa\\Desktop\\main\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1589817504224,
+            "changeTime": 1589817504224,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Vanessa\\Desktop\\main\\force-app\\main\\default\\permissionsets",
+        {
+            "sourcePath": "C:\\Users\\Vanessa\\Desktop\\main\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1589817504224,
+            "changeTime": 1589817504224,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Vanessa\\Desktop\\main\\force-app\\main\\default\\staticresources",
+        {
+            "sourcePath": "C:\\Users\\Vanessa\\Desktop\\main\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1589817504224,
+            "changeTime": 1589817504224,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Vanessa\\Desktop\\main\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "C:\\Users\\Vanessa\\Desktop\\main\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1589817504225,
+            "changeTime": 1589817504225,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Vanessa\\Desktop\\main\\force-app\\main\\default\\triggers",
+        {
+            "sourcePath": "C:\\Users\\Vanessa\\Desktop\\main\\force-app\\main\\default\\triggers",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1589817504225,
+            "changeTime": 1589817504225,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Vanessa\\Desktop\\main",
+        {
+            "sourcePath": "C:\\Users\\Vanessa\\Desktop\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1589817621919,
+            "changeTime": 1589817621919,
+            "contentHash": "fdb8825a0f4e57d1436b0c944c685f66284f10c4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Vanessa\\Desktop\\main\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Vanessa\\Desktop\\main\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 19646,
+            "modifiedTime": 1589818512386,
+            "changeTime": 1589818512386,
+            "contentHash": "3182e5ee2b18f3eef6a669f461a5c1c726fd8c8b"
+        }
+    ],
+    [
+        "C:\\Users\\Vanessa\\Desktop\\main\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Vanessa\\Desktop\\main\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1589818512386,
+            "changeTime": 1589818512386,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c"
+        }
+    ]
+]
